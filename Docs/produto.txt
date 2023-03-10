@@ -1,0 +1,12 @@
+{
+  "name": "Whey Protein Concentrado (1KG)",
+  "description": "Whey Protein é a proteína ideal para quem treina hipertrofia e quer ganhar massa muscular.",
+  "price": "99.00",
+  "offPrice": "99.00",
+  "categories": ["Academia", "Suplemento", "Whey"],
+  "tags": ["Academia", "Proteína", "Hipertrofia"],
+  "brand": "Growth"
+}
+
+
+SENHA: KrCunx4nCdYvHdsT
